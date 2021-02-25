@@ -1,4 +1,4 @@
-# Applied Data Science Capstone Project
+# The Battle of Neighborhoods in The City of Surabaya
 
 This repository is part of IBM Applied Data Science Course Capstone Project which is offered through Coursera.
 In this repository, I highlights my approach in analyzing and clustering neighborhoods in the city of Surabaya. 
